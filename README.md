@@ -94,7 +94,7 @@
     </div>
 
     <!-- Image on the right -->
-    <img src="photo.jpeg" alt="Renuka Ramasamy" class="profile-img">
+    <img src="image.jpeg" alt="Renuka Ramasamy" class="profile-img">
   </div>
 
   <hr>
