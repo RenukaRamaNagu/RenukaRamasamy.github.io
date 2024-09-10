@@ -110,9 +110,7 @@
       <li><a href="#certifications">Certifications</a></li>
     </ul>
   </section>
-
-  <hr>
-    <!-- Research Section -->
+<hr>
   <section id="research">
     <h2>Research</h2>
     <ul>
@@ -128,9 +126,7 @@
       </li>
     </ul>
   </section>
-
   <hr>
-  <!-- Internship Section -->
   <section id="internships">
     <h2>Internships</h2>
     <ul>
@@ -141,10 +137,7 @@
       <!-- Add more internships as needed -->
     </ul>
   </section>
-
   <hr>
-
-  <!-- Projects Section -->
   <section id="projects">
     <h2>Projects</h2>
     <ul>
@@ -168,10 +161,7 @@ icular crop. We additionally add plant leaf disease prediction with suggestion t
        </li> 
     </ul>
   </section>
-
   <hr>
-
-  <!-- Certifications Section -->
   <section id="certifications">
     <h2>Certifications & Awards</h2>
     <ul>
