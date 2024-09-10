@@ -86,7 +86,7 @@
     <!-- Name, email, and self-introduction on the left -->
     <div class="info">
       <h1>Renuka Ramasamy</h1>
-      <p><strong>Email:</strong> <a href="mailto:renukabecs7@gmail.com">tsundareswari@gmail.com</a></p>
+      <p><strong>Email:</strong> <a href="mailto:renukabecs7@gmail.com">renukabecs7@gmail.com</a></p>
       <p class="introduction">
         As an aspiring AI Master's student, I have a deep passion for Artificial Intelligence, Machine Learning, and Natural Language Processing, Computer vision. I enjoy exploring these fields and applying my knowledge to solve complex problems and create innovative solutions."
       </p>
