@@ -64,11 +64,16 @@
 
     /* Additional CSS to reduce the gap between headings and content */
     section {
-      margin: 10px 0; /* Reduce the margin around each section */
+      margin: 5px 0; /* Reduce the margin around each section */
     }
 
     h2 {
       margin-bottom: 5px; /* Reduce the bottom margin of the headings */
+    }
+
+    /* Reduce gap for horizontal rules */
+    hr {
+      margin: 10px 0; /* Reduce the margin above and below the horizontal rule */
     }
 
     /* Responsive design for smaller screens */
@@ -192,3 +197,4 @@
 
 </body>
 </html>
+
